@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MENTZ</string>
+    <string name="fahrplanauskunft">Fahrplan-Auskunft</string>
+    <string name="location_details">Location Details</string>
+</resources>
